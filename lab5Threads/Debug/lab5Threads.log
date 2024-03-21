@@ -1,0 +1,4 @@
+﻿  lab5Threads.cpp
+C:\Users\1\source\repos\lab5Threads\lab5Threads\lab5Threads.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\1\source\repos\lab5Threads\lab5Threads\lab5Threads.cpp(53,16): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  lab5Threads.vcxproj -> C:\Users\1\source\repos\lab5Threads\Debug\lab5Threads.exe
